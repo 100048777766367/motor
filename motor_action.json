@@ -1,0 +1,13 @@
+{
+    "contract": "bodhi.action.v1",
+    "source": "motor_effector",
+    "timestamp": 1791913746,
+    "action": {
+        "decision": "HOLD_POSITION (GI\u1eee V\u1eeeNG V\u1eca TR\u00cd)",
+        "vector_displacement": [
+            -0.001,
+            0.0
+        ],
+        "net_power": 0.0034
+    }
+}
